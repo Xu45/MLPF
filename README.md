@@ -6,8 +6,7 @@ Robotic Fingertip Tactile Sensing for Human-Like Dexterous Manipulation: High-Fi
 - PyTorch 2.6
 
 ## Code File Introduction
-- Real_Time_Process.py:
-  Real-time 3D Force and Force Application Point Coordinate Estimation
+- Real_Time_Process.py: Real-time 3D Force and Force Application Point Coordinate Estimation
 - Train_12axis_4regions.py: Training a Deep Learning Model to Achieve Four-Region Classification
 - Train_mlp_12axis_4regions.py: Training a Deep Learning Model to Achieve Single-Region Fitting
 - Train_only_mlp_12axis.py: Training a Deep Learning Model to Achieve Full-Region Fitting
